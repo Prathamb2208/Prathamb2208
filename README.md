@@ -1,4 +1,4 @@
-👋 Hello, I'm @Prathamb2208
+👋 Hello, I'm @PrathamBamaniya
 
 I’m a Data Analyst with a strong passion for transforming raw data into actionable insights. My work revolves around leveraging tools like SQL, Python, Power BI, and Tableau to analyze complex datasets and create visually compelling dashboards.
 
@@ -13,6 +13,8 @@ I'm deeply interested in:
 I’m currently enhancing my skills in:
 - Advanced SQL for Data Analytics
 - Power BI for Business Intelligence
+- Tableau for Data Visualizations
+- R & Python programming for Data Cleaning and Data Preparation
 - Machine Learning with Python
 - Cloud Data Platforms (AWS/GCP)
 
@@ -26,7 +28,7 @@ I’m open to collaborating on:
 Feel free to connect with me:
 - LinkedIn: [www.linkedin.com/in/pratham-bamaniya]
 - Email: [prathamvinodbamaniya@gmail.com]
-- GitHub: [GitHub Profile Link]
+- GitHub: [https://github.com/Prathamb2208]
 
 😄 Pronouns
 He/Him
